@@ -1,2 +1,2 @@
 # pulsometr
-# available here https://yamixa-gz.github.io/pulsometr
+# available here https://mykhailo-zanizdra-dev.github.io/pulsometr
